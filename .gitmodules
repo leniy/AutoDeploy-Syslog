@@ -1,0 +1,3 @@
+[submodule "sources\\AutoDeploy-Centos"]
+	path = sources\\AutoDeploy-Centos
+	url = https://github.com/leniy/AutoDeploy-Centos.git
